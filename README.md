@@ -4,7 +4,7 @@
 
 Install Killua03 package.  
 ```
-devtools:install_github("Killua-github/Killua03")
+devtools::install_github("Killua-github/Killua03")
 ```
 
 ## Usage
