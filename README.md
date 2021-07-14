@@ -34,13 +34,13 @@ Calculate field scale of Open Field from image size.
 > - up; millimeter of lift up from original
 
 Python training.  
-`add`
-`class01`
-`class02`
-`div`
-`Greeting`
-`practice`
-`say_hello`
+`add`  
+`class01`  
+`class02`  
+`div`  
+`Greeting`  
+`practice`  
+`say_hello`  
 
 ## Version History
 
@@ -49,13 +49,13 @@ Checked functions are now available.
 ### ver. 3.1.1
 
 ・Python Programming.  
--[x] add
--[x] class01
--[x] class02
--[x] div
--[x] Greeting
--[x] practice
--[x] say_hello
+- [x] add
+- [x] class01
+- [x] class02
+- [x] div
+- [x] Greeting
+- [x] practice
+- [x] say_hello
 
 ### ver. 2.1.1
 
