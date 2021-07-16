@@ -42,9 +42,29 @@ Python training.
 `practice`  
 `say_hello`  
 
+Make graphs from wavelngth data.  
+`Wavelength`  
+
+Choose Left/Right side letters form a word.  
+`Leftsubstr`  
+`Rightsubstr`  
+> Arguments  
+> - word; the word that you want to pick up from
+> - number; number of picking up that you want
+
+
 ## Version History
 
 Checked functions are now available.  
+
+### ver. 4.1.1
+
+・Made Wavelength function.  
+・Made Leftsubstr function.  
+・Made Rightsubstr function.  
+- [x] Wavelength()
+- [x] Leftsubstr(word, number)
+- [x] Rightsubstr(word, number)
 
 ### ver. 3.1.1
 
