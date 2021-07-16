@@ -1,7 +1,7 @@
 Package: Killua03
 Type: Package
 Title: This package is for deta analysis.
-Version: 3.1.1
+Version: 4.1.1
 Author: Killua Zaoldyeck
 Maintainer: Killua Zaoldyeck <yukiharui@g.ecc.u-tokyo.ac.jp>
 Description: This package is for data analysis.
