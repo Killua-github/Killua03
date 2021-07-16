@@ -43,11 +43,11 @@ Python training.
 `say_hello`  
 
 Make graphs from wavelngth data.  
-`Wavelength`  
+`Wavelength()`  
 
 Choose Left/Right side letters form a word.  
-`Leftsubstr`  
-`Rightsubstr`  
+`Leftsubstr(word, number)`  
+`Rightsubstr(word, number)`  
 > Arguments  
 > - word; the word that you want to pick up from
 > - number; number of picking up that you want
